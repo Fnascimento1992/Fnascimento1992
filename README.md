@@ -1,5 +1,7 @@
-### Hi there 👋
+Bem-vindo! 👋
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="30" height="30"/>
+          
 <!--
 **Fnascimento1992/Fnascimento1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
