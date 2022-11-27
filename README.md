@@ -1,5 +1,7 @@
 Bem-vindo! 👋
 
+Me chamdo Fernando Nascimento. Sou dev, com foco em backend.
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="30" height="30"/>
           
 <!--
