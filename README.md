@@ -1,7 +1,7 @@
 Bem-vindo! 👋
 
 Me chamo Fernando. DEV php e Nodejs. 
-Next: JAVA 
+Aprendendo: JAVA 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="30" height="30" />
           
